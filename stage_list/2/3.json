@@ -1,0 +1,11 @@
+{
+  "stage_story_id": 3,
+  "text": "走到了故事的结局",
+  "simple_desc_text": "阶段2测试剧情3",
+  "jump": false,
+  "jump_stage": 2,
+  "jump_stage_story_id": 1,
+  "end_story": true,
+  "choose_story_id_list": [
+  ]
+}

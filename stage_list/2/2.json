@@ -1,0 +1,12 @@
+{
+  "stage_story_id": 2,
+  "text": "阶段2测试剧情2",
+  "simple_desc_text": "阶段2测试剧情2",
+  "jump": false,
+  "jump_stage": 0,
+  "jump_stage_story_id": 0,
+  "end_story": false,
+  "choose_story_id_list": [
+    3
+  ]
+}
